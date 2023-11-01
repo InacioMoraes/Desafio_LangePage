@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+}
+h1, h2{
+    color: #33A8DB;
+}
+
+.logo{
+width: 248px;
+height: 214px;
+top: 27px;
+left: 131px;
+}
+
+footer .dio-logo {
+width: 300px;
+}
+
+.footer{
+    text-align: center;
+}
+
+footer a {
+    color:#33A8DB;
+    font-weight: bold;
+    text-decoration: none;
+
+}
